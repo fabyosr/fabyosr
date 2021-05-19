@@ -15,6 +15,12 @@ Languages & Tools:
 <code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/vbs-ff0000?style=for-the-badge&logo=vbs&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/tesorflow-ff9933?style=for-the-badge&logo=tensorflow&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/pytorch-000000?style=for-the-badge&logo=pytorch&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/scikitlearn-3399ff?style=for-the-badge&logo=scikit-learn&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/pandas-000066?style=for-the-badge&logo=pandas&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/numpy-0099ff?style=for-the-badge&logo=numpy&logoColor=white"></code>
+
 <br>
 <br>
 
@@ -46,10 +52,8 @@ Frameworks:
 <code><img height="20" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white"></code>
 
-
-
-
-
+<BR>
+<a href="https://github.com/fabyosr/sas_library"><img src="https://gh-card.dev/repos/fabyosr/sas_library.svg"></a>
 
 <!--
 **fabyosr/fabyosr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
