@@ -1,18 +1,20 @@
-### Fabyo Ramos
+## Fabyo Ramos
 
 <a target="_blank" href="https://www.linkedin.com/in/fabyoramos/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br>
 <br>
-Languages:
+Languages & Tools:
 <br>
 <br>
+<code><img height="20" src="https://img.shields.io/badge/Sas-003366?style=for-the-badge&logo=SAS&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
 <code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/vbs-ff0000?style=for-the-badge&logo=vbs&logoColor=white"></code>
 <br>
 <br>
 
@@ -20,9 +22,11 @@ Databases:
 <br>
 <br>
 <code><img height="20" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Oracle-cc0000?style=for-the-badge&logo=oracle&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Teradata-003366?style=for-the-badge&logo=Teradata&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></code>
 <br>
 <br>
