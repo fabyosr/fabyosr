@@ -5,7 +5,7 @@
 </a>
 <br>
 <br>
-No meu dia a dia utilizo de muita criatividade no desenvolvimento das minhas atividades em inteligência computacional. São diversas ferramentas e diferentes tecnologias que são compiladas para uso na alavancagem do negócio.
+Diariamente utilizo de muita criatividade no desenvolvimento das minhas atividades em inteligência computacional. São diversas ferramentas, diferentes tecnologias e inúmeras fontes de dados que juntas são compiladas, tendo como objetivo a geração de insights para uso na alavancagem do negócio.
 <br>
 <br>
 Compartilho aqui alguns projetos pessoais de transformação digital, utilizando Data Analytics, Data Science, IA e Machine Learning.
@@ -26,7 +26,7 @@ Languages & Tools:
 <code><img height="20" src="https://img.shields.io/badge/scikitlearn-3399ff?style=for-the-badge&logo=scikit-learn&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/pandas-000066?style=for-the-badge&logo=pandas&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/numpy-0099ff?style=for-the-badge&logo=numpy&logoColor=white"></code>
-
+<code><img height="20" src="https://img.shields.io/badge/blockchain-000000?style=for-the-badge&logo=blockchain&logoColor=white"></code>
 <br>
 <br>
 
