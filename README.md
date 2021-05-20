@@ -5,6 +5,12 @@
 </a>
 <br>
 <br>
+No meu dia a dia utilizo de muita criatividade no desenvolvimento das minhas atividades em inteligência computacional. São diversas ferramentas e diferentes tecnologias que são compiladas para uso na alavancagem do negócio.
+<br>
+<br>
+Compartilho aqui alguns projetos pessoais de transformação digital, utilizando Data Analytics, Data Science, IA e Machine Learning.
+<br>
+<br>
 Languages & Tools:
 <br>
 <br>
